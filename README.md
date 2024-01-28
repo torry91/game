@@ -2,6 +2,7 @@
 
 ## Overview
 This simple JavaScript game challenges users to guess a randomly generated number between 1 and 20. The user can input their guesses either by pressing the 'Enter' key or clicking the 'Check' button. The game provides feedback on whether the guess is too high, too low, or correct.
+<img width="1091" alt="Screenshot 2024-01-27 at 20 47 18" src="https://github.com/torry91/game/assets/149702982/8f530282-6e49-4862-9275-9413e808fc8a">
 
 ## Features
 Input Handling: Users can enter their guesses either by pressing the 'Enter' key in the input field or by clicking the 'Check' button.
