@@ -1,9 +1,9 @@
 # Guess the Number Game
 
-##Overview
+## Overview
 This simple JavaScript game challenges users to guess a randomly generated number between 1 and 20. The user can input their guesses either by pressing the 'Enter' key or clicking the 'Check' button. The game provides feedback on whether the guess is too high, too low, or correct.
 
-##Features
+## Features
 Input Handling: Users can enter their guesses either by pressing the 'Enter' key in the input field or by clicking the 'Check' button.
 
 Validation: The game validates user input to ensure it is a number between 1 and 20. If the input is not a valid number, an error message is displayed.
@@ -12,7 +12,7 @@ Feedback Messages: Users receive feedback messages indicating whether their gues
 
 Winning Message: Upon successfully guessing the correct number, a congratulations message is displayed along with a celebratory image.
 
-##Usage
+## Usage
 Open the HTML file in a web browser.
 Enter a number in the input field.
 Press 'Enter' or click the 'Check' button to submit your guess.
